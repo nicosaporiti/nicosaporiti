@@ -4,7 +4,7 @@
 
 [Send me a tip with Rayito.app ⚡](https://rayito.app/nicolas.saporiti)
 
-⚡ nicolas@rayito.app
+⚡ nicolas@saporiti.cl
 
 <!--
 **nicosaporiti/nicosaporiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

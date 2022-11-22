@@ -3,6 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicosaporiti&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [Send me a tip with Rayito.app ⚡](https://rayito.app/nicolas.saporiti)
+[Open your wallet to send sats ⚡](lightning:nicolas.saporiti@rayito.app)
 
 <!--
 **nicosaporiti/nicosaporiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

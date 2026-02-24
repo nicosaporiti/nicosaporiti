@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicosaporiti&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Proyectos personales actuales
 
 🏋️ Seguimiento de rutinas [Groso.app](https://www.groso.app/)

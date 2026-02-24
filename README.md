@@ -11,4 +11,4 @@ Proyectos personales actuales
 
 ₿ PayWall para Lightning Network [PayWall](https://payments.saporiti.cl/)
 
-🗞️ Lectos y agregador RSS [Matcher News](https://matcher.news/)
+🗞️ Lector y agregador RSS [Matcher News](https://matcher.news/)
